@@ -1,0 +1,7 @@
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\bin\Debug\Lab11Mercado.exe.config
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\bin\Debug\Lab11Mercado.exe
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\bin\Debug\Lab11Mercado.pdb
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\obj\Debug\Lab11Mercado.csprojResolveAssemblyReference.cache
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\obj\Debug\Lab11Mercado.csproj.CoreCompileInputs.cache
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\obj\Debug\Lab11Mercado.exe
+C:\Users\mercae16\source\repos\Lab11Mercado\Lab11Mercado\obj\Debug\Lab11Mercado.pdb
